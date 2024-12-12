@@ -11,12 +11,21 @@
   },
   "dependencies": {
     "@nuxt/fonts": "^0.10.3",
+    "@nuxt/image": "^1.8.1",
+    "@pinia/nuxt": "^0.9.0",
+    "@prisma/nuxt": "^0.1.2",
+    "dayjs-nuxt": "^2.1.11",
     "nuxt": "^3.14.1592",
+    "nuxt-typed-router": "^3.7.2",
+    "pinia": "^2.3.0",
     "vue": "latest",
     "vue-router": "latest"
   },
-  "devDependencies": {
+  "devDependencies": {  
     "@vueuse/nuxt": "^12.0.0",
-    "prettier": "^3.4.2"
+    "nuxt-file-storage": "^0.2.9",
+    "prettier": "^3.4.2",
+    "prisma": "^6.0.1",
+    "sass": "^1.82.0"
   }
 }

@@ -12,8 +12,12 @@ useSeoMeta({
   <p>sdfsdsdsdfs</p>
 </template>
 
-<style scoped>
+<style scoped lang="scss">
 p {
   font-family: "Roboto", "sans-serif";
+}
+h1 {
+  @include Title;
+  color: $primary;
 }
 </style>

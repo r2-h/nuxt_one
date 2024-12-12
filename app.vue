@@ -1,15 +1,13 @@
+<script lang="ts"></script>
+
 <template>
   <NuxtLayout>
     <NuxtPage />
   </NuxtLayout>
 </template>
 
-<style>
-body {
-  font-family: "Montserrat", "sans-serif";
-}
+<style lang="scss">
 a {
   text-decoration: none;
-  
 }
 </style>
